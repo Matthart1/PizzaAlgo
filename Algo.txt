@@ -1,0 +1,9 @@
+1. Deside where to order from.
+2. Desidewhat type of pie you woukd like.
+3.Call the pie factory. 
+4.Order the pie of your choise.
+    4a. Pay over the phone.
+    4b. Pay at the door.
+5. Wait for delivery.
+6. Receive the pie.
+7. Enjoy!
